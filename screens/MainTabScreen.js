@@ -67,7 +67,7 @@ const MainTabScreen = () => (
           tabBarLabel: 'Servicio Social',
           tabBarColor: '#AB2F74',
           tabBarIcon: ({ color }) => (
-            <Icon name="ios-services" color={color} size={26} />
+            <Icon name="ios-people" color={color} size={26} />
           ),
         }}
       />
